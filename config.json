@@ -1,0 +1,14 @@
+{
+  "watch_folder": "C:\\Users\\Kafa\\Downloads",
+  "organize_existing_files": true,
+  "delay_seconds": 2,
+  "categories": {
+    "Images": [".png", ".jpg", ".jpeg", ".gif", ".bmp", ".svg"],
+    "Videos": [".mp4", ".mkv", ".webm", ".mov", ".avi"],
+    "Audio": [".mp3", ".wav", ".flac"],
+    "Documents": [".pdf", ".docx", ".txt", ".pptx", ".xlsx"],
+    "Archives": [".zip", ".rar", ".tar", ".gz"],
+    "Executables": [".exe", ".msi", ".bat", ".sh"],
+    "Code": [".py", ".js", ".html", ".css", ".java", ".c", ".cpp"]
+  }
+}
